@@ -17,7 +17,7 @@ Code validation: Code(html,css) validated with https://validator.w3.org/nu/.
 
 Project is designed to have a responsive web design for different layouts(Desktop,Mobile-Tablet).
 
-Project hosted on GitHub page.
+Project deployed on GitHub page.
 
 Contents:Links provided: https://www.romeinformation.it/en/
 
