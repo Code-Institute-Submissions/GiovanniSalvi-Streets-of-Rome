@@ -1,17 +1,11 @@
-.body{
+body {
     width:100% ! important;
     height:100%; 
-    font: 16px Arial, sans-serif;
-    margin:0px;
-    padding:0px;
-    display:none;
-    border: 5px solid #813867;
-    border-style:double;
-    position: relative;
+    
 }
 .wrapper ::-webkit-scrollbar 
-    {overflow: hidden;
-    border: 5px solid #813867;
+    {
+    overflow: hidden;
     border-style:double; 
 
 }
@@ -27,28 +21,25 @@ header{
     opacity: 0.9;
     
 }
-header span{
+nav  span{
     color:rgb(229, 244, 247);
     font-size:2.5vw;
-    position: relative;
-    text-align:left;
-    height: 40px;
+    
 }
 
 .conteiner{
     width:100%;
-    height: 700px;
+    height: 600px;
     background: url(https://www.csoalastrada.net/core-online/wp-content/uploads/2015/10/Roma-in-nero.jpg); 
-    background-repeat: repeat;
-    background-size: 100% 700px;
+    background-repeat:no-repeat ;
+    background-size: cover;
     padding:0.2px;
     background-attachment: fixed;
+    box-sizing: border-box;
                                    
                                /* single line scrollbar */  
  }
-  ::-webkit-scrollbar {
-    overflow: hidden
-}
+  
 
 #subject{
     margin-top:10px;
@@ -61,33 +52,26 @@ header span{
 }
 
 .info{
-    text-align:right;
+    text-align: right;
     font-size: 1.5vw;
     word-spacing: 1.5em;
-    color:white;
-    position: relative;
-    margin-top:30px;
     padding-right:10px;
     
-}
-.info a {
-    color:white;
-    margin-right:25px;
-    padding-right:10px;
-    font-weight: lighter;
-}
-.info a:hover { 
-    color:  navy;
 }
 
-h2{
-    font-size:50px;
-    font-family:trajan;
-    font-weight:lighter;
-    font-style:italic;
-    color:black;
-    
+.info a {
+    color: white;
+    font-family:trajan, sans-serif;
+    font-size: 15px;
+    display: 
 }
+
+.info a:hover { 
+    color:navy;
+    text-decoration: none;
+}
+
+
 
 
 .name{
@@ -102,11 +86,7 @@ p {
      text-align:center;
 }   
 
-.fa fa-globe   {                                    /* Font-awesome icon*/
-       color:#4169e1;                    
-       fill:#1a4adb;
- 
-}
+
 
 .image{
     width: 100%;
@@ -115,6 +95,7 @@ p {
     border: 6px solid silver;
     border-style:groove;
     max-width: 90vw;
+    margin: auto;
 }
 #item1 {
     
@@ -130,12 +111,12 @@ p {
 #item2{
     width:100%;
     height: 900px;
-    text-align:center !important;                   /* bootstrap code overrides css, it makes a mobile first fluid grid system
+    text-align:center;                   /* bootstrap code overrides css, it makes a mobile first fluid grid system
                                                              but it does not look  center aligned on desktop*/
-    margin-top:0px;
+    
     padding-top:40px;
     background-color: rgb(231, 150, 0);
-    
+    margin: 
 }
 
 #item3 {
@@ -169,10 +150,11 @@ p {
 footer{
     color:white;
     padding-top:20px;
-    height:120px;
+    height:150px;
     width:100%;
     background-color:#1c2841;
     font-weight:lighter;
+    
 }                          
 
  #footer{
@@ -181,17 +163,18 @@ footer{
      font-style:italic;
 }
   .icon-bar  {
-        
-        text-align:center;
+    
+    text-align:center;
+    margin-top: 10px;
 }
   .icon-bar a{
-      color: white
+    color: white;
+    font-size:20px;
 }
 
-    .icon-bar a:hover {
-      color:#1a203d; 
-      fill:red;
-      
+  .icon-bar a:hover {
+    color: rgb(11, 11, 78);  
+    
 }
  
  
