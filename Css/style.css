@@ -4,17 +4,12 @@ body {
     display:block;
     margin: 0;
 }
-.wrapper ::-webkit-scrollbar 
-    {
-    overflow: hidden;
-    border-style:double; 
 
-}
                          /*  CSS multi-line  */
 
 header{
     width:100%;
-    height:70px;
+    height:90px;
     text-align:left;
     font-family: cursive;
     font-style:oblique;
@@ -22,7 +17,7 @@ header{
     opacity: 1.5;
     
 }
-nav  span{
+div  span{
     color:rgb(229, 244, 247);
     font-size:2.5vw;
     
@@ -53,18 +48,18 @@ nav  span{
 }
 
 .info{
-    text-align: right;
-    font-size: 1.5vw;
+    float: right;
+    font-size: 15px;
     word-spacing: 1.5em;
     padding-right:10px;
-    
+    margin-top:0;
 }
 
 .info a {
     color: white;
-    font-family:trajan, sans-serif;
-    font-size: 15px;
-    display: 
+    font-family:'Times New Roman', Times, serif;
+    font-size: 2vw;
+    text-decoration: none;
 }
 
 .info a:hover { 
@@ -101,12 +96,12 @@ p {
     border-style:groove;
     border-radius:20%;
     float:right;
-    margin-right:20px;
+    margin-right:0px;
     
 }
 #item1 {
     width:100%;
-    height:500px;
+    min-height: 500px;
     text-align: center;
     padding-top:40px;
     background-color:  rgb(77, 89, 102);
@@ -115,7 +110,7 @@ p {
 
 #item2{
     width:100%;
-    height:500px;
+    min-height: 500px;
     text-align:center;                   
     padding-top:40px;
     background-color: rgb(231, 150, 0);
@@ -124,7 +119,7 @@ p {
 
 #item3 {
     width:100%;
-    height:500px;
+    min-height: 500px;
     text-align:center;
     padding-top:40px;
     background-color:  #7a2630;
@@ -133,7 +128,7 @@ p {
 #item4 {
     padding-top:40px;
     width:100%;
-    height:500px;
+    min-height: 500px;
     text-align:center;
     background-color: rgb(62, 91, 95);
     
@@ -141,7 +136,7 @@ p {
                               
 #item5{
     width:100%;
-    height:500px;
+    min-height: 500px;
     text-align:center;
     padding-top:40px;
     background-color: #602F44;
@@ -185,6 +180,7 @@ footer{
     background-repeat: no-repeat;
     background-size: 100% 90%;
     margin-bottom: 20px;
+    
 }
 
 #footer2{
@@ -193,23 +189,22 @@ footer{
 
  }    
 
- .signup-form{
-     margin-top:120px;
-     max-width: 500px;
+.signup-form{
+     margin-top:150px;
      color: #fff;
      background-color:rgba(60, 60, 60, 0.644);
      position: absolute;
-     padding:10px;
+     padding:20px;
      border: 1px solid black;
-     left: 80px;
-     display: flex;
+     left:60px;
+     
  }
 
 .text-input{
      font-size: 20px;
      font-weight: bold;
-      vertical-align:middle;
-    
+     vertical-align:middle;
+     
  }
 
 .join-button{
