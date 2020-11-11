@@ -9,13 +9,12 @@ body {
 
 header{
     width:100%;
-    height:90px;
     text-align:left;
     font-family: cursive;
     font-style:oblique;
     background-color:#1c2841;
     opacity: 1.5;
-    
+    padding:20px;
 }
 div  span{
     color:rgb(229, 244, 247);
@@ -59,12 +58,11 @@ div  span{
     color: white;
     font-family:'Times New Roman', Times, serif;
     font-size: 2vw;
-    text-decoration: none;
+    
 }
 
 .info a:hover { 
-    color:navy;
-    text-decoration: none;
+    text-decoration: underline !important;
 }
 
 li {
@@ -76,16 +74,16 @@ li {
     font-family: 'Lobster', cursive;
     font-size:25px;
     text-align:center;
-    color:#4169e1;
+    color:#070f25;
     
 }
 
-p {
+.text_info {
      margin:0%;
      text-align:left;
      font-weight: bold;
      font-size: 20px;
-     
+     color: white;
 }   
 
 
@@ -96,49 +94,41 @@ p {
     border-style:groove;
     border-radius:20%;
     float:right;
-    margin-right:0px;
-    
+    margin:13px;
+    font-weight:unset;
 }
-#item1 {
+
+.section-container{
     width:100%;
     min-height: 500px;
-    text-align: center;
-    padding-top:40px;
+    text-align:center;
+    padding:40px;
+}
+#item1 {
+    
     background-color:  rgb(77, 89, 102);
    
 }
 
 #item2{
-    width:100%;
-    min-height: 500px;
-    text-align:center;                   
-    padding-top:40px;
+    
     background-color: rgb(231, 150, 0);
     
 }
 
 #item3 {
-    width:100%;
-    min-height: 500px;
-    text-align:center;
-    padding-top:40px;
+    
     background-color:  #7a2630;
     
 }
 #item4 {
-    padding-top:40px;
-    width:100%;
-    min-height: 500px;
-    text-align:center;
+    
     background-color: rgb(62, 91, 95);
     
 }
                               
 #item5{
-    width:100%;
-    min-height: 500px;
-    text-align:center;
-    padding-top:40px;
+    
     background-color: #602F44;
     
 }
@@ -155,9 +145,10 @@ footer{
 }                          
 
  #footer{
-     font-size:2vw;
+     font-size:1rem;
      font-family:fantasy;
      font-style:italic;
+     text-align: center;
 }
   .icon-bar  {
     text-align:center;
@@ -165,39 +156,39 @@ footer{
 }
   .icon-bar a{
     color: white;
-    font-size:20px;
+    font-size:30px;
+    padding: 7px;
 }
 
   .icon-bar a:hover {
-    color: rgb(11, 11, 78);  
+    color: rgb(172, 172, 197);  
     
 }
  
 .layout {
     width:100%;
-    height:500px;
+    height:100vh;
     background-image: url(https://ulule.me/presales/6421/roma-29.jpeg);
     background-repeat: no-repeat;
-    background-size: 100% 90%;
-    margin-bottom: 20px;
-    
+    background-size: 100% 100%;
+    margin-bottom:10px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
 }
 
 #footer2{
-     padding-top:40px;
+     padding-top:10px;
      height:80px;
-
- }    
+}    
 
 .signup-form{
-     margin-top:150px;
      color: #fff;
      background-color:rgba(60, 60, 60, 0.644);
-     position: absolute;
-     padding:20px;
+     padding:90px;
      border: 1px solid black;
      left:60px;
-     box-shadow:2px 2px gray;
+     box-shadow:2px 2px black;
  }
 
 .text-input{
