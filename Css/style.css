@@ -24,17 +24,35 @@ div  span{
 
 .conteiner{
     width:100%;
-    height: 600px;
+    height: 595px;
     background: url(https://www.csoalastrada.net/core-online/wp-content/uploads/2015/10/Roma-in-nero.jpg); 
     background-repeat:no-repeat ;
     background-size: cover;
     padding:0.2px;
     background-attachment: fixed;
     box-sizing: border-box;
-                                   
-                               /* single line scrollbar */  
+    transition:ease-out;
+
+    animation-name:container-image-outer;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
  }
-  
+
+#container-image-outer{
+    width: 100%;
+    height: 595;
+    overflow:hidden;
+}
+
+ @keyframes container-image-outer  {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+ 
 
 #subject{
     margin-top:10px;
@@ -112,7 +130,7 @@ h2 {
 
 #item1 {
     
-    background-color:  rgb(77, 89, 102);
+    background-color: rgb(77, 89, 102);
    }
 
 
@@ -143,8 +161,8 @@ h2 {
                               /*footer styling*/  
 footer{
     color:white;
-    padding-top:20px;
-    height:150px;
+    padding-top:10px;
+    height:120px;
     width:100%;
     background-color:#1c2841;
     font-weight:lighter;
@@ -184,7 +202,7 @@ footer{
     justify-content:center;
 }
 
-#footer2{
+#footer-info{
      padding-top:10px;
      height:80px;
 }    
@@ -192,10 +210,11 @@ footer{
  .signup-form{
      color: #fff;
      background-color:rgba(60, 60, 60, 0.644);
-     padding:60px;
+     padding:50px;
      border: 1px solid black;
      left:60px;
      box-shadow:2px 2px black;
+     height:500px;
  }
 
 .text-input{
@@ -221,12 +240,37 @@ footer{
      border-radius:3px;
  }
 
- .section-gallery{
+ .layout-gallery{
     width:100%;
-    height:100vh;
-    margin-bottom:10px;
-    display:flex;
+    height:auto;
+    background-color:rgb(240 240 241);
  }
+
+ .image-gallery{   
+    column-count:3;
+    column-gap: 2px;
+    
+}
+
+.photos-gallery{
+    margin:1px 1px;
+    vertical-align:bottom;
+}
+
+#footer-gallery{
+    padding-top: 10px;
+    height:100px;
+}
+
+.photos-gallery{
+    max-width:300px;
+    height:250px;
+    
+}
+
+
+
+
 
      
 
