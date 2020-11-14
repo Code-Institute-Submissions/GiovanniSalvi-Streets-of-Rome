@@ -3,15 +3,23 @@ body   {
     height:100%; 
     margin:0px;
     display:block;
+    
 }
+
+
 * {
   box-sizing: border-box;
 }
 
+
+
                          /*  CSS multi-line  */
+main {
+    overflow: hidden;
+}
 
 header{
-    width:100%;
+    width:100vw;
     height:100px;
     text-align:left;
     font-family: cursive;
@@ -39,16 +47,14 @@ div  span{
 
 
 .conteiner{
-    max-width:100%;
+    width:100vw;
     height: 595px;
     background: url(https://www.csoalastrada.net/core-online/wp-content/uploads/2015/10/Roma-in-nero.jpg); 
     background-repeat:no-repeat ;
     background-size: cover;
-    position:relative;
     padding:0.2px;
     background-attachment: fixed;
     transition:ease-out;
-    overflow: hidden;
     animation-name:container-image-outer;
     animation-duration: 3s;
     animation-fill-mode:forwards;
@@ -123,7 +129,7 @@ li {
 
 
 .image{
-    width: 500px;
+    width:auto;
     height:300px;
     border-style:groove;
     border-radius:20%;
@@ -131,6 +137,16 @@ li {
     margin:13px;
     font-weight:unset;
 }
+
+@media only screen and  (max-width:400px)   {
+    .image  {
+            width:260px;
+            height: 180px;
+    }
+}
+
+
+
 
 
 
@@ -149,6 +165,7 @@ h2 {
 #item1 {
     
     background-color: rgb(72 75 78);
+
    }
 
 
@@ -185,7 +202,10 @@ footer{
     background-color:#1c2841;
     font-weight:lighter;
     clear: both;
-}                          
+}       
+
+
+
 
  #footer{
      font-size:1rem;
@@ -235,6 +255,8 @@ footer{
      height:500px;
  }
 
+
+}
 .text-input{
      font-size: 20px;
      font-weight: bold;
