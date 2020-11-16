@@ -20,18 +20,17 @@ main {
 
 header{
     width:100vw;
-    height:100px;
-    text-align:left;
+    height:80px;
     font-family: cursive;
     font-style:oblique;
     background-color:#1c2841;
     opacity: 1.5;
     padding:20px;
 }
-div  span{
+ div  span{
     color:rgb(229, 244, 247);
     font-size:2.5vw;
-    
+    text-align:left;
 }
 
 
@@ -48,10 +47,10 @@ div  span{
 
 
 
-.conteiner{
+.section-title{
     width:100vw;
     height: 595px;
-    background: url(https://www.csoalastrada.net/core-online/wp-content/uploads/2015/10/Roma-in-nero.jpg); 
+    background-image: url(https://www.csoalastrada.net/core-online/wp-content/uploads/2015/10/Roma-in-nero.jpg); 
     background-repeat:no-repeat ;
     background-size: cover;
     padding:0.2px;
@@ -90,6 +89,7 @@ div  span{
 
 .info{
     float: right !important;
+    text-align: right;
     font-size: 15px;
     word-spacing: 1.5em;
     padding-right:10px;
@@ -152,12 +152,12 @@ li {
 }
 
 h2 {
-    color:rgb(46, 32, 32);
+    color:rgb(21 16 16 / 95%);
 }
 
 #item1 {
     
-    background-color: rgb(72 75 78);
+    background-color:rgb(53 65 76 / 80%);
 
    }
 
@@ -165,24 +165,24 @@ h2 {
 
 #item2{
     
-    background-color: rgb(231, 150, 0);
+    background-color: rgb(71 74 90 / 90%);
     
 }
 
 #item3 {
     
-    background-color:  #7a2630;
+    background-color:#3a1f22c7;
     
 }
 #item4 {
     
-    background-color: rgb(62, 91, 95);
+    background-color: rgb(56 22 22 / 67%);
     
 }
                               
 #item5{
     
-    background-color: #602F44;
+    background-color:#602f3dc4;
     
 }
 
@@ -249,6 +249,10 @@ footer{
      height:500px;
  }
 
+ input:focus::-webkit-input-placeholder {
+    opacity: 0;
+}
+
 
 
 .text-input{
@@ -291,9 +295,8 @@ footer{
 
 .image-gallery{   
     column-count:3;
-    column-gap:3px;
-    margin-left: auto;
-    margin-right: auto;
+    column-gap:2px;
+    margin: 0 0 2px 0;
     cursor:pointer;
     display:block;
     line-height:10%;
