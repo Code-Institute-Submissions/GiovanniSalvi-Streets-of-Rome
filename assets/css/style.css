@@ -155,6 +155,11 @@ h2 {
     color:rgb(21 16 16 / 95%);
 }
 
+.fa-map-pin{
+    font-size:20px;
+    color:#007bff96;
+}
+
 #item1 {
     
     background-color:rgb(53 65 76 / 80%);
