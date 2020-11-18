@@ -50,7 +50,7 @@ header{
 .section-title{
     width:100vw;
     height: 595px;
-    background-image: url(https://www.csoalastrada.net/core-online/wp-content/uploads/2015/10/Roma-in-nero.jpg); 
+    background-image: url(http://www.csoalastrada.net/core-online/wp-content/uploads/2015/10/Roma-in-nero-620x350.jpg); 
     background-repeat:no-repeat ;
     background-size: cover;
     padding:0.2px;
@@ -153,6 +153,11 @@ li {
 
 h2 {
     color:rgb(21 16 16 / 95%);
+}
+
+.fa-map-pin  {
+    font-size: 15px;
+    color:#007bff;
 }
 
 #item1 {
