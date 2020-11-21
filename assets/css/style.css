@@ -88,8 +88,7 @@ header{
 }
 
 .info{
-    float: right !important;
-    text-align: right;
+    float:right !important;
     font-size: 15px;
     word-spacing: 1.5em;
     padding-right:10px;
