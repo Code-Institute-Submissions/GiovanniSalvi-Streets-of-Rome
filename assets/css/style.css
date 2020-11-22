@@ -27,25 +27,26 @@ header{
     opacity: 1.5;
     padding:20px;
 }
+
+@media only screen and (min-width: 768px) {
+   header {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  ul.info {
+    word-spacing:0.5em;
+    
+  }
+}
+
+
  div  span{
     color:rgb(229, 244, 247);
     font-size:2.5vw;
     text-align:left;
 }
-
-
-
-.navbar-dark  {
-    background-color:#1c2841 !important;
-    display: block;
-}
-.navbar-brand{
-    display: block;
-}
-
-
-
-
 
 .section-title{
     width:100vw;
@@ -64,7 +65,6 @@ header{
 #container-image-outer{
     width: auto;
     
-    
 }
 
  @keyframes container-image-outer  {
@@ -75,7 +75,25 @@ header{
         transform: scale(1.05);
     }
 }
- 
+
+@media  screen and (min-width: 250px) {
+  div.section-title {
+    height:auto;
+    background-attachment: unset;
+    
+  }
+}
+
+@media  screen and (min-width: 750px) {
+  div.section-title {
+    height:525px;
+    background-attachment: unset;
+    
+  }
+}
+
+
+
 
 #subject{
     margin-top:10px;
@@ -85,6 +103,13 @@ header{
     text-align: center;
     text-shadow: 2px 2px whitesmoke;
     font-weight:lighter;
+}
+
+@media only screen and (max-width:700px) {
+  h1#subject {
+      font-size: 50px;
+    
+  }
 }
 
 .info{
@@ -139,6 +164,15 @@ li {
     float:right;
     margin:13px;
     font-weight:unset;
+}
+
+@media screen and (max-width: 760px) {
+    img.image  {
+        height:180px;
+        width:250px;
+        margin:0px;
+        float:unset;
+  }
 }
 
 
@@ -210,6 +244,17 @@ footer{
      font-style:italic;
      text-align: center;
 }
+
+
+
+@media only screen and (max-width: 1125px) {
+  footer {
+    height:auto;
+    
+  }
+}
+
+
 .icon-bar {
     text-align:center;
     margin-top: 10px;
@@ -238,6 +283,22 @@ footer{
     justify-content:center;
 }
 
+@media only screen and (max-width: 700px) {
+  section.layout {
+    height:auto;
+    margin:40px 10px 65px 0px;
+    background-image:none;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  body.wrapper {
+    background-image:url(https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/colosseum-drawing-andrea-gatti.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+  }
+}
+
 #footer-info{
      padding-top:10px;
      height:80px;
@@ -252,6 +313,7 @@ footer{
      box-shadow:2px 2px black;
      height:500px;
  }
+
 
  input:focus::-webkit-input-placeholder {
     opacity: 0;
@@ -306,6 +368,25 @@ footer{
     line-height:10%;
     
 }
+
+
+@media only screen and (max-width: 750px) {
+  div.image-gallery {
+    column-count:1;
+    display: inline;
+  }
+}
+
+@media only screen and (max-width: 1025px) {
+  div.image-gallery{
+    column-count:2;
+
+  }
+}
+
+
+
+
 
 .photo-gallery{
     width:100%;

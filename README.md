@@ -13,7 +13,7 @@
 ### User stories:
 * as a user I want have an overview about the main turistic and historical hotspots so that I can plan my trip that better suits me.
 
-* as a turist I want use the map through the link in the homepage  to figure out which are the  optimal means tp explore  the city based on time and budget I have.
+* as a turist I want use the map through the link in the homepage  to figure out which are the  optimal means to explore  the city based on time and budget I have.
 
 * as a turist 
 
@@ -66,12 +66,18 @@ through the site.
 ***
 # Technologies used
 
+## Programming Languages:
+
+* HTML
+
+* CSS
+
 
 ### Libraries:
 
 * [Bootstrap](https://getbootstrap.com/)
 
-    * This project uses Bootstrap to make the project responsive for tablet and mobile devices.
+    * This project uses Bootstrap to create a responsive dropdown menu.
 
 * [Fontawesome](https://fontawesome.com/)
 
@@ -83,6 +89,33 @@ through the site.
 
 ***
 # Testing
+
+  ### The project has been validated using:
+
+* [validator.w3.org]() for HTML languages code.
+
+* [jigsaw.w3.org]() for CSS language code.
+
+ ### The project has beeen designed to make pages render well on a variety of devices and window or screen sizes such as:
+
+ * Desktop
+
+ * Laptop
+
+ * Tablet:
+ 1. ipad Pro
+ 2. iPad
+
+* Mobile:
+ 1. Moto G4
+ 2. Galaxy S5
+ 2. Pixel 2
+ 3. Pixel 2 XL
+ 4. Iphone 6/7/8
+ 5. Iphone 6/7/8 Plus
+ 6. Iphone X
+ 7. Surface Duo
+
 
 
 ***
@@ -175,9 +208,12 @@ through the site.
     8. [link from 10cose.it](https://www.10cose.it/wp-content/uploads/2016/05/piazza-navona-roma.jpg)
     9. [link from images.unsplash.com](https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
 
- * The photo used as background image in the Contact page was from:
+ * The photos used as background images in the Contact page were from:
 
-    * [link from ulule.me](https://ulule.me/presales/6421/roma-29.jpeg)
+    1. [link from ulule.me](https://ulule.me/presales/6421/roma-29.jpeg)
+    2. [link from render.fineartamerica.com](https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/colosseum-drawing-andrea-gatti.jpg)
+
+
 
  ## Acknowledgements
 
