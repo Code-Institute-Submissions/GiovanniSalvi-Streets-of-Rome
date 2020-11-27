@@ -13,15 +13,29 @@
                                               <!----header---->
 <body class="wrapper">
  <header>
-  <nav>
-   <div><span>Iconic Streets Of The Italian Capital!</span>
-    <ul class="info">
-      <li><a href= "index.html" style="text-decoration:none">Home</a></li>
-      <li><a href= "gallery.html"> Gallery </a></li>
-      <li> <a href= "info.html">Contact</a></li>
+  <nav class="navbar navbar-expand-lg navbar-light ">
+  <a class="brand  navbar-brand" href="#">Iconic Streets Of The Italian Capital!</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="index.html">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="gallery.html">Gallery</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="info.html">Contact <span class="sr-only">(current)</span></a>
+      </li>
+      
+      
     </ul>
-   </div>
-  </nav>
+    
+  </div>
+</nav>
  </header>
                                             <!----contents---->
 
@@ -30,13 +44,13 @@
       <form action="#" method="post" >
        <h2 style="font-size:30px;color:white;">Contact</h2>
        <label for="fname">First Name</label><br>
-       <input class="text-input" id="fname" name="first_name" type="text" required><br>
+       <input class="form-control" id="fname" name="first_name" type="text" required><br>
        <label for="lname">Last Name</label><br>
-       <input class="text-input" id="lname" name="last_name" type="text" required><br>
+       <input class="form-control" id="lname" name="last_name" type="text" required><br>
        <label for="email">Email Address</label><br>
-       <input class="text-input" id="email" name="email_address" type="email" required><br>
-       <input class="message-input" id="message" name="message" placeholder="leave a message.." type="text"><br>
-       <input class="join-button" type="submit" value="Send!">
+       <input class="form-control" id="email" name="email_address" type="email" required><br>
+       <input class="form-control" id="message" name="message" placeholder="leave a message.." type="text"><br>
+       <input class="btn btn-primary" type="submit" value="Send!">
       </form>
     </div>
 
