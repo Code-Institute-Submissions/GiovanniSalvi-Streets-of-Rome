@@ -92,9 +92,9 @@ through the site.
 
   ### The project has been validated using:
 
-* [validator.w3.org]() for HTML languages code.
+* [validator.w3.org](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgiovannisalvi.github.io%2FStreets-of-Rome%2F#textarea) for HTML languages code.
 
-* [jigsaw.w3.org]() for CSS language code.
+* [jigsaw.w3.org](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgiovannisalvi.github.io%2FStreets-of-Rome%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) for CSS language code.
 
  ### The project has beeen designed to make pages render well on a variety of devices and window or screen sizes such as:
 
