@@ -179,7 +179,7 @@ through the site.
     4. [link from google maps](https://www.google.com/maps/place/Via+Vittorio+Veneto,+00187+Roma+RM/@41.9061217,12.487353,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61aa04368f9d:0xbe09d7baa2bd2f89!8m2!3d41.9061177!4d12.4895417)
     5. [link from google maps](https://www.google.com/maps/place/Via+dei+Condotti,+00187+Roma+RM/@41.9051624,12.478321,17z/data=!3m1!4b1!4m5!3m4!1s0x132f6054507d9da7:0xf7a4ecac27548b0b!8m2!3d41.9051584!4d12.4805097)
 
-
+---
  ## Media
 
  ### Animations
@@ -227,6 +227,7 @@ through the site.
 
 * Template code for navbar collapse toggle using bootstrap classes was taken from  [bootstrap/css](https://getbootstrap.com/docs/4.0/components/navbar/) and then modified to fit with the web page needs.
 
+***
 
  ## Acknowledgements
 
