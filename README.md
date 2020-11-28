@@ -99,9 +99,9 @@ through the site.
 
   ### The project has been validated using:
 
-* [validator.w3.org](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgiovannisalvi.github.io%2FStreets-of-Rome%2F) for HTML     languages code.
+* [validator.w3.org](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgiovannisalvi.github.io%2FStreets-of-Rome%2F) for HTML language.
 
-* [jigsaw.w3.org](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgiovannisalvi.github.io%2FStreets-of-Rome%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) for CSS language code.
+* [jigsaw.w3.org]() for CSS language.
 
 * The quality of the web-site was measured using Google Lighthouse:
   <img width="1278" alt="Lighthouse performance" src="https://user-images.githubusercontent.com/61980577/100490184-d4db0900-3119-11eb-8196-54771fd2c336.png">
