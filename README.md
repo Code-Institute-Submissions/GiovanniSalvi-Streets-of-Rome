@@ -51,7 +51,7 @@ Contact:
 
 ## Existing featers:
 
-* Feature1: Feature 1:Header provides a fluid navigation 
+* Feature1: Header provides a fluid navigation 
 through the site.
 
 * Feature2: Homepage's body provides a brief description of few popular streets of the city.
