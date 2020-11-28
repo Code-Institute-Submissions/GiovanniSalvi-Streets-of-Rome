@@ -163,8 +163,8 @@ through the site.
  7. Surface Duo (540x720px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
 <img width="474" alt="test12" src="https://user-images.githubusercontent.com/61980577/100522119-d99ace00-31a8-11eb-8a31-37b097329dd4.png">
 
-***
 
+***
 ### Bugs:
 
 
