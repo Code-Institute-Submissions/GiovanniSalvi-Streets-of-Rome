@@ -129,24 +129,40 @@ through the site.
  ### The project has beeen designed to make pages render well on a variety of devices and window or screen sizes such as:
 
  * Desktop: (1600x992px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
-
+<img width="1018" alt="test1" src="https://user-images.githubusercontent.com/61980577/100522174-27afd180-31a9-11eb-8a0c-e87dc7a557ce.png">
 
  * Laptop: (1280x802px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+<img width="670" alt="test2 " src="https://user-images.githubusercontent.com/61980577/100522163-1ebf0000-31a9-11eb-8d35-f58cacf48af9.png">
 
  * Tablet
  1. ipad Pro: (1024x1366px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ <img width="547" alt="test3" src="https://user-images.githubusercontent.com/61980577/100522158-14046b00-31a9-11eb-8ee2-8686467a2b15.png">
+
  2. iPad: (768x1024px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+<img width="474" alt="test4" src="https://user-images.githubusercontent.com/61980577/100522150-0949d600-31a9-11eb-8668-b543c2fdfe80.png">
 
 * Mobile
  1. Moto G4 (360x640px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
- 2. Galaxy S5 (360x640px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
- 2. Pixel 2 (411x731px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
- 3. Pixel 2 XL (411x823px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
- 4. Iphone 6/7/8 (375x677px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
- 5. Iphone 6/7/8 Plus (414x736px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
- 6. Iphone X (375x812px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
- 7. Surface Duo (540x720px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ <img width="474" alt="test5" src="https://user-images.githubusercontent.com/61980577/100522146-04852200-31a9-11eb-8545-b9ffe6d2191d.png">
 
+ 2. Galaxy S5 (360x640px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ <img width="474" alt="test6" src="https://user-images.githubusercontent.com/61980577/100522141-fb945080-31a8-11eb-90d9-08698b18ad21.png">
+
+ 2. Pixel 2 (411x731px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ <img width="474" alt="test7" src="https://user-images.githubusercontent.com/61980577/100522138-f505d900-31a8-11eb-91f3-016641de5e6b.png">
+
+ 3. Pixel 2 XL (411x823px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ <img width="474" alt="test8" src="https://user-images.githubusercontent.com/61980577/100522130-ec150780-31a8-11eb-8fed-199a9b478665.png">
+
+ 4. Iphone 6/7/8 (375x677px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ <img width="474" alt="test9" src="https://user-images.githubusercontent.com/61980577/100522125-e61f2680-31a8-11eb-8a28-91b73b60d714.png">
+ 5. Iphone 6/7/8 Plus (414x736px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ <img width="474" alt="test10" src="https://user-images.githubusercontent.com/61980577/100522122-e28b9f80-31a8-11eb-9608-41ceb373cc99.png">
+6. Iphone X (375x812px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+<img width="474" alt="test11" src="https://user-images.githubusercontent.com/61980577/100522120-de5f8200-31a8-11eb-8744-5c01ce03a3f9.png">
+ 7. Surface Duo (540x720px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+<img width="474" alt="test12" src="https://user-images.githubusercontent.com/61980577/100522119-d99ace00-31a8-11eb-8a31-37b097329dd4.png">
+---
 ### Bugs:
 
 
