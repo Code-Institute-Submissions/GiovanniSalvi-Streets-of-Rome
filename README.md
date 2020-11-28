@@ -108,28 +108,44 @@ through the site.
 
 ### Testing client stories from UX section of README.md file:
 
- 1.As a new visitor I want navigate the site  
+ 1. As a new visitor I want navigate the site to find what I need, easily.
+
+    * In every page of the site it's possible to navigate 
+    through easily, action Home button leads the user to the gallery and contact pages which lead back to the homepage.
+
+    * Navigation bar is easily to find in any pages at the top right.
+
+ 2. As a potential turist I want to view gallery in order to have a clearer idea how is best way to plan my journay across    the city. 
+
+    * Gallery page which is labelled on every page is easy to find and show a few images of the most important turistic and historical hotspots in the city.
+
+  3. As a potential turist I want find more external material to increase  my knowledge about what the city can offer         according to my budget and time.
+
+     * At the bottom of every page a social media links navigation bar can lead the user to the most popular social networks.
+
+     * The contact page contains a newsletter form (to be implemented) where users can leave a message which request a first     name,second name and an email address.
 
   
  ### The project has beeen designed to make pages render well on a variety of devices and window or screen sizes such as:
 
- * Desktop
+ * Desktop: (1600x992px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
 
- * Laptop
 
- * Tablet:
- 1. ipad Pro
- 2. iPad
+ * Laptop: (1280x802px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
 
-* Mobile:
- 1. Moto G4
- 2. Galaxy S5
- 2. Pixel 2
- 3. Pixel 2 XL
- 4. Iphone 6/7/8
- 5. Iphone 6/7/8 Plus
- 6. Iphone X
- 7. Surface Duo
+ * Tablet
+ 1. ipad Pro: (1024x1366px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ 2. iPad: (768x1024px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+
+* Mobile
+ 1. Moto G4 (360x640px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ 2. Galaxy S5 (360x640px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ 2. Pixel 2 (411x731px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ 3. Pixel 2 XL (411x823px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ 4. Iphone 6/7/8 (375x677px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ 5. Iphone 6/7/8 Plus (414x736px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ 6. Iphone X (375x812px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ 7. Surface Duo (540x720px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
 
 ### Bugs:
 
