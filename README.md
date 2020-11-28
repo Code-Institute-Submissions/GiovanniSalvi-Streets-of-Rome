@@ -158,11 +158,36 @@ through the site.
  <img width="474" alt="test9" src="https://user-images.githubusercontent.com/61980577/100522125-e61f2680-31a8-11eb-8a28-91b73b60d714.png">
  5. Iphone 6/7/8 Plus (414x736px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
  <img width="474" alt="test10" src="https://user-images.githubusercontent.com/61980577/100522122-e28b9f80-31a8-11eb-9608-41ceb373cc99.png">
-6. Iphone X (375x812px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
+ 6. Iphone X (375x812px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
 <img width="474" alt="test11" src="https://user-images.githubusercontent.com/61980577/100522120-de5f8200-31a8-11eb-8744-5c01ce03a3f9.png">
  7. Surface Duo (540x720px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
 <img width="474" alt="test12" src="https://user-images.githubusercontent.com/61980577/100522119-d99ace00-31a8-11eb-8a31-37b097329dd4.png">
 
+## Bugs discovered:
+
+### Solved bugs
+
+ 1. Hero image animation issue
+
+    * When Homepage was displayed on desktop screen size, resolution above 1600px width and 992px height, image appeared half cutted off.
+    * To solve this issue I removed background-attachement property and used background-position giving a value of -50px
+      then i set background image's height value to 595px in order to fit it into the section-title classed div.
+
+``` 
+.section-title {
+    width: 100vw;
+    height: 595px;
+    background-image: url(https://www.csoalastrada.net/core-online/wp-content/uploads/2015/10/Roma-in-nero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: -50px;
+    padding: 0.2px;
+    transition: ease-out;
+    animation-name: container-image-outer;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}                
+```
 
 
 
