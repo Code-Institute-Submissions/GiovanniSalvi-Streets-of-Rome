@@ -226,7 +226,7 @@ through the site.
 ***
 # Code
 
-* Template code for navbar collapse toggle using bootstrap classes was taken from [bootstrap/css](https://getbootstrap.com/docs/4.0/components/collapse/)and then modified to fit with the web page needs.
+* Template code for navbar collapse toggle using bootstrap classes was taken from  [bootstrap/css](https://getbootstrap.com/docs/4.0/components/navbar/) and then modified to fit with the web page needs.
 
 
  ## Acknowledgements
