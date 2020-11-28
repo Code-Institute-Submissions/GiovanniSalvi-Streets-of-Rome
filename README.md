@@ -41,7 +41,7 @@
 Home:
 <img width="1279" alt="mockups" src="https://user-images.githubusercontent.com/61980577/100489665-f6d28c80-3115-11eb-974a-b90781977a3f.png">
 Gallery:
-<img width="1260" alt="mockups2" src="https://user-images.githubusercontent.com/61980577/100489679-09e55c80-3116-11eb-86a3-2ff5bbac7d32.png">
+
 Contact:
 <img width="1260" alt="mockups3" src="https://user-images.githubusercontent.com/61980577/100489681-0baf2000-3116-11eb-81f4-2d3283115f1c.png">
 
