@@ -15,7 +15,7 @@
 
 * as a turist I want use the map through the link in the homepage  to figure out which are the  optimal means to explore  the city based on time and budget I have.
 
-* as a turist 
+* as a user I want to be able to subscribe the newsletter.
 
 ---
 
@@ -37,6 +37,13 @@
 
 ![Project Wireframe contact iphone ](https://user-images.githubusercontent.com/61980577/99425737-881a5580-2903-11eb-9395-d89a810768dd.png)
 
+# Project's Mockups screenshot:
+Home:
+<img width="1279" alt="mockups" src="https://user-images.githubusercontent.com/61980577/100489665-f6d28c80-3115-11eb-974a-b90781977a3f.png">
+Gallery:
+<img width="1260" alt="mockups2" src="https://user-images.githubusercontent.com/61980577/100489679-09e55c80-3116-11eb-86a3-2ff5bbac7d32.png">
+Contact:
+<img width="1260" alt="mockups3" src="https://user-images.githubusercontent.com/61980577/100489681-0baf2000-3116-11eb-81f4-2d3283115f1c.png">
 
 ***
 # Features
@@ -92,10 +99,14 @@ through the site.
 
   ### The project has been validated using:
 
-* [validator.w3.org](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgiovannisalvi.github.io%2FStreets-of-Rome%2F#textarea) for HTML languages code.
+* [validator.w3.org](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgiovannisalvi.github.io%2FStreets-of-Rome%2F) for HTML     languages code.
 
 * [jigsaw.w3.org](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgiovannisalvi.github.io%2FStreets-of-Rome%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) for CSS language code.
 
+* The quality of the web-site was measured using Google Lighthouse:
+  <img width="1278" alt="Lighthouse performance" src="https://user-images.githubusercontent.com/61980577/100490184-d4db0900-3119-11eb-8196-54771fd2c336.png">
+
+  
  ### The project has beeen designed to make pages render well on a variety of devices and window or screen sizes such as:
 
  * Desktop
@@ -212,7 +223,10 @@ through the site.
 
     1. [link from ulule.me](https://ulule.me/presales/6421/roma-29.jpeg)
     2. [link from render.fineartamerica.com](https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/colosseum-drawing-andrea-gatti.jpg)
+***
+# Code
 
+* Template code for navbar collapse toggle using bootstrap classes was taken from [bootstrap/css](https://getbootstrap.com/docs/4.0/components/collapse/)and then modified to fit with the web page needs.
 
 
  ## Acknowledgements
