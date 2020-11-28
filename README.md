@@ -37,7 +37,7 @@
 
 ![Project Wireframe contact iphone ](https://user-images.githubusercontent.com/61980577/99425737-881a5580-2903-11eb-9395-d89a810768dd.png)
 
-# Project's Mockups screenshots:
+### Project's Mockups screenshots:
 Home:
 <img width="1279" alt="mockups" src="https://user-images.githubusercontent.com/61980577/100489665-f6d28c80-3115-11eb-974a-b90781977a3f.png">
 Gallery:
@@ -45,7 +45,7 @@ Gallery:
 Contact:
 <img width="1260" alt="mockups3" src="https://user-images.githubusercontent.com/61980577/100489681-0baf2000-3116-11eb-81f4-2d3283115f1c.png">
 
-***
+---
 # Features
 
 
@@ -70,7 +70,7 @@ through the site.
 * Implement the website so that it will ideally provide detailed routing for pedestrian access to stops, stations, points    of interest etc. This will include options to take into account accessibility requirements for different types of users.
 * Implement the website to be a trip planner which include a search engine for shopping search , accommodations , activities  and price  comparison for some aspects of a trip. 
 
-***
+---
 # Technologies used
 
 ## Programming Languages:
