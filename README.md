@@ -4,7 +4,7 @@
 
 ## I realized this project as part of the User centric front-end development module that I am completing at "code academy" training course.
 
-### The website has been designed in order to raise interest to know and visit the city(as i already stated on the homepage)where I am from and give tools and information in a appealing way as much as clear possible to users be interested about it.
+### The website has been designed in order to raise interest, discovery and visit the city(as i already stated on the homepage)where I am from and give tools and information in a appealing way as much as clear possible to users be interested about it.
 
 ###  My attempt to make the website attractive is based on giving to the potential users a very straight-forward picture on why it is worth to visit the place by showing a collection of a few clear images of the city.
 
