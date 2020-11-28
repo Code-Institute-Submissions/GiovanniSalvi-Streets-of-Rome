@@ -106,6 +106,10 @@ through the site.
 * The quality of the web-site was measured using Google Lighthouse:
   <img width="1278" alt="Lighthouse performance" src="https://user-images.githubusercontent.com/61980577/100490184-d4db0900-3119-11eb-8196-54771fd2c336.png">
 
+### Testing client stories from UX section of README.md file:
+
+ 1.As a new visitor I want navigate the site  
+
   
  ### The project has beeen designed to make pages render well on a variety of devices and window or screen sizes such as:
 
@@ -127,12 +131,17 @@ through the site.
  6. Iphone X
  7. Surface Duo
 
+### Bugs:
 
 
 ***
 # Deployment
 
-  ### In order to deploy the project, you need to perform some steps:
+* Create a GitHub account.
+
+* Use the chrome browser.
+
+### In order to deploy the project, you need to perform some steps:
 
      1.Log into GitHub.
 
@@ -165,19 +174,19 @@ through the site.
 
  * The texts for section paragraphs were taken from:
 
-    1. [link from wikipedia Via dei fori imperiali](https://en.wikipedia.org/wiki/Via_dei_Fori_Imperiali)
-    2. [link from wikipedia Via della Conciliazione](https://en.wikipedia.org/wiki/Via_della_Conciliazione)
-    3. [link from wikipedia Via Veneto](https://en.wikipedia.org/wiki/Via_Veneto)
-    4. [link from wikipedia Via Giulia](https://en.wikipedia.org/wiki/Via_Giulia)
-    5. [link from wikipedia Via Condotti](https://en.wikipedia.org/wiki/Via_Condotti)
+    1. [link from wikipedia via_dei fori imperiali](https://en.wikipedia.org/wiki/Via_dei_Fori_Imperiali)
+    2. [link from wikipedia via_della conciliazione](https://en.wikipedia.org/wiki/Via_della_Conciliazione)
+    3. [link from wikipedia via_veneto](https://en.wikipedia.org/wiki/Via_Veneto)
+    4. [link from wikipedia via_giulia](https://en.wikipedia.org/wiki/Via_Giulia)
+    5. [link from wikipedia via_condotti](https://en.wikipedia.org/wiki/Via_Condotti)
 
  * The links for the web-map were taken from:
 
-    1. [link from google maps](https://www.google.com/maps/place/Via+dei+Fori+Imperiali,+Roma+RM/@41.8933582,12.484765,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61b3f0a39c4f:0x42f40ce9df3b57c7!8m2!3d41.8933542!4d12.4869537)
-    2. [link from google maps](https://www.google.com/maps/place/Via+della+Conciliazione,+00193+Roma+RM/@41.9023419,12.4597567,17z/data=!3m1!4b1!4m5!3m4!1s0x132f605d7200590f:0x4db4e05217f4e9d4!8m2!3d41.9023379!4d12.4619454)
-    3. [link from google maps](https://www.google.com/maps/place/Via+Giulia,+00186+Roma+RM/@41.8962598,12.4659455,17z/data=!3m1!4b1!4m5!3m4!1s0x132f60446a6023cd:0x4d28eb2b840ed856!8m2!3d41.8962558!4d12.4681342)
-    4. [link from google maps](https://www.google.com/maps/place/Via+Vittorio+Veneto,+00187+Roma+RM/@41.9061217,12.487353,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61aa04368f9d:0xbe09d7baa2bd2f89!8m2!3d41.9061177!4d12.4895417)
-    5. [link from google maps](https://www.google.com/maps/place/Via+dei+Condotti,+00187+Roma+RM/@41.9051624,12.478321,17z/data=!3m1!4b1!4m5!3m4!1s0x132f6054507d9da7:0xf7a4ecac27548b0b!8m2!3d41.9051584!4d12.4805097)
+    1. [link from google maps via_dei_fori_imperiali](https://www.google.com/maps/place/Via+dei+Fori+Imperiali,+Roma+RM/@41.8933582,12.484765,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61b3f0a39c4f:0x42f40ce9df3b57c7!8m2!3d41.8933542!4d12.4869537)
+    2. [link from google maps via_della_conciliazione](https://www.google.com/maps/place/Via+della+Conciliazione,+00193+Roma+RM/@41.9023419,12.4597567,17z/data=!3m1!4b1!4m5!3m4!1s0x132f605d7200590f:0x4db4e05217f4e9d4!8m2!3d41.9023379!4d12.4619454)
+    3. [link from google maps via_giulia](https://www.google.com/maps/place/Via+Giulia,+00186+Roma+RM/@41.8962598,12.4659455,17z/data=!3m1!4b1!4m5!3m4!1s0x132f60446a6023cd:0x4d28eb2b840ed856!8m2!3d41.8962558!4d12.4681342)
+    4. [link from google maps via_vittorio veneto](https://www.google.com/maps/place/Via+Vittorio+Veneto,+00187+Roma+RM/@41.9061217,12.487353,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61aa04368f9d:0xbe09d7baa2bd2f89!8m2!3d41.9061177!4d12.4895417)
+    5. [link from google maps via_condotti](https://www.google.com/maps/place/Via+dei+Condotti,+00187+Roma+RM/@41.9051624,12.478321,17z/data=!3m1!4b1!4m5!3m4!1s0x132f6054507d9da7:0xf7a4ecac27548b0b!8m2!3d41.9051584!4d12.4805097)
 
 ---
  ## Media
@@ -196,15 +205,15 @@ through the site.
 
  * Hero image was from:
 
-    * [link from csoalastrada.net](http://www.csoalastrada.net/core-online/wp-content/uploads/2015/10/Roma-in-nero-620x350.jpg) 
+    * [link from csoalastrada.net hero_image](http://www.csoalastrada.net/core-online/wp-content/uploads/2015/10/Roma-in-nero-620x350.jpg) 
 
  * The photos used in the Homepage were obtained from:
 
-    1. [link from Wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ViadeiForiImperiali.jpg/1920px-ViadeiForiImperiali.jpg)
-    2. [link from locationscout.net ](https://img.locationscout.net/images/2017-03/basilica-di-san-pietro-via-della-conciliazione-italy-obd3_l.jpeg)
-    3. [link from Trastevereapp.com](http://www.trastevereapp.com/wp-content/uploads/2018/12/giulia-4.png)
-    4. [link from limg.hostelsclub.com](https://limg.hostelsclub.com/pics/16669/016669-1290445114.jpg)
-    5. [link from Wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/4/41/Piazza_di_Spagna_and_Via_Condotti_by_night_%285833058998%29.jpg)
+    1. [link from Wikimedia.org via_dei_fori_imperiali](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ViadeiForiImperiali.jpg/1920px-ViadeiForiImperiali.jpg)
+    2. [link from locationscout.net via_della_conciliazione](https://img.locationscout.net/images/2017-03/basilica-di-san-pietro-via-della-conciliazione-italy-obd3_l.jpeg)
+    3. [link from Trastevereapp.com via_giulia](http://www.trastevereapp.com/wp-content/uploads/2018/12/giulia-4.png)
+    4. [link from limg.hostelsclub.com via_vittorio veneto (https://limg.hostelsclub.com/pics/16669/016669-1290445114.jpg)
+    5. [link from Wikimedia.org via_condotti](https://upload.wikimedia.org/wikipedia/commons/4/41/Piazza_di_Spagna_and_Via_Condotti_by_night_%285833058998%29.jpg)
 
  * The photos used in the Gallery page were from:
 
