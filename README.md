@@ -129,7 +129,7 @@ through the site.
  ### The project has beeen designed to make pages render well on a variety of devices and window or screen sizes such as:
 
  * Desktop: (1600x992px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
-<img width="1018" alt="test1" src="https://user-images.githubusercontent.com/61980577/100522174-27afd180-31a9-11eb-8a0c-e87dc7a557ce.png">
+<img width="938" alt="test_" src="https://user-images.githubusercontent.com/61980577/100522642-d7d20a00-31aa-11eb-89e1-d11d2e36196d.png">
 
  * Laptop: (1280x802px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
 <img width="670" alt="test2 " src="https://user-images.githubusercontent.com/61980577/100522163-1ebf0000-31a9-11eb-8d35-f58cacf48af9.png">
@@ -162,7 +162,9 @@ through the site.
 <img width="474" alt="test11" src="https://user-images.githubusercontent.com/61980577/100522120-de5f8200-31a8-11eb-8744-5c01ce03a3f9.png">
  7. Surface Duo (540x720px) Responsivness tested using ChromeDev inspector tool, as shown in the screenshot below:
 <img width="474" alt="test12" src="https://user-images.githubusercontent.com/61980577/100522119-d99ace00-31a8-11eb-8a31-37b097329dd4.png">
----
+
+***
+
 ### Bugs:
 
 
