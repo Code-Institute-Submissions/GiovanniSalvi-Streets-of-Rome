@@ -163,7 +163,6 @@ through the site.
 
  ## Content
 
- * The text for section Y was copied from the Wikipedia article Z
  * The texts for section paragraphs were taken from:
 
     1. [link from wikipedia Via dei fori imperiali](https://en.wikipedia.org/wiki/Via_dei_Fori_Imperiali)
