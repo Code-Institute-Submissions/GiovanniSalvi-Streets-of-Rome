@@ -269,7 +269,7 @@ through the site.
     1. [link from Wikimedia.org via_dei_fori_imperiali](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ViadeiForiImperiali.jpg/1920px-ViadeiForiImperiali.jpg)
     2. [link from locationscout.net via_della_conciliazione](https://img.locationscout.net/images/2017-03/basilica-di-san-pietro-via-della-conciliazione-italy-obd3_l.jpeg)
     3. [link from Trastevereapp.com via_giulia](http://www.trastevereapp.com/wp-content/uploads/2018/12/giulia-4.png)
-    4. [link from limg.hostelsclub.com via_vittorio veneto (https://limg.hostelsclub.com/pics/16669/016669-1290445114.jpg)
+    4. [link from limg.hostelsclub.com via_vittorio veneto](https://limg.hostelsclub.com/pics/16669/016669-1290445114.jpg)
     5. [link from Wikimedia.org via_condotti](https://upload.wikimedia.org/wikipedia/commons/4/41/Piazza_di_Spagna_and_Via_Condotti_by_night_%285833058998%29.jpg)
 
  * The photos used in the Gallery page were from:
