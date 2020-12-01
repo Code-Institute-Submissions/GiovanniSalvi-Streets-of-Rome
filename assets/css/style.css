@@ -126,7 +126,7 @@ h2 {
 }
 
 #item1 {
-    background-color: rgb(116 143 169 / 80%);
+    background-color: rgb(107 144 179);;
 }
 
 #item2 {
@@ -337,7 +337,7 @@ input:focus::-webkit-input-placeholder {
     }
 }
 
-@media only screen and (max-width:780px ) {
+@media only screen and (max-width:991px ) {
     .navbar-nav {
         float:right;
     }
